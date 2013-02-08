@@ -1,0 +1,3 @@
+fancystats is a analytics web app for NHL statistics.
+
+Project includes a custom ETL solution, data warehouse, and a front end reporting/charting tool.
