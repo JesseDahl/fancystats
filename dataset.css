@@ -1,0 +1,54 @@
+﻿#mainPanel {
+    float: left;
+    clear: right;
+    width: 75%;
+    margin: 10px;
+}
+
+#leftPanel {
+    float: left;
+    width: 20%;
+    margin: 10px;
+}
+/*
+.filters {
+    float: left;
+    clear: right;
+}*/
+
+.filter {
+    float: left;
+    clear: right;
+    display: inline-block;
+    margin: 2px;
+    width: 100%;
+}
+
+.filter label {
+    float: left;
+    clear: right;
+
+    display: inline-block;
+}
+
+.content {
+    width: 100%;
+    height: 500px;
+    float: left;
+    clear: left;
+}
+
+#chart {
+    height: 500px;
+    width: 800px;
+}
+
+tick text {
+    font: bold .75em 'Courier New';
+    text-transform:capitalize;
+}
+
+table.display {
+    width: 100%;
+    margin: 0;
+}
